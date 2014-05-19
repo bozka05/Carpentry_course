@@ -2,3 +2,5 @@ thames
 danube
 vah
 hron
+vltava
+nitra
